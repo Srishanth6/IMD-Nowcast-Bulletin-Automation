@@ -1,0 +1,17 @@
+# Local configuration (contains the private IMD server address)
+config.local.json
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.pytest_cache/
+
+# Generated outputs and runtime state
+output/
+logs/
+*.log
+.imd_state.json
+.imd_run.lock

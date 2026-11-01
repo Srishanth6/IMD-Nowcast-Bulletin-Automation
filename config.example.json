@@ -1,0 +1,10 @@
+{
+  "nowcast_page_url": "http://<IMD_SERVER_HOST>:<PORT>/tlng/wx/dist_nowcast.php",
+  "radar_page_url": "https://mausam.imd.gov.in/hyderabad/index_radar.php?id=Hyderabad",
+  "output_dir": "output",
+  "log_dir": "logs",
+  "request_timeout": 30,
+  "retries": 3,
+  "retry_backoff_seconds": 5,
+  "chrome_path": ""
+}
