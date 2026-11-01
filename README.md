@@ -131,11 +131,13 @@ All tests run offline using mocked IMD responses.
 
 ## Team
 
-| Name | GitHub |
-|---|---|
-| B. Srishanth Reddy | [@Srishanth6](https://github.com/Srishanth6) |
-| Ashmitha (ashmitha-2366) | [@ashmitha-2366](https://github.com/ashmitha-2366) |
-| K. Vedanidhi | [@Kvedanidhi](https://github.com/Kvedanidhi) |
+This project was built jointly by a three-member team, and all three members contributed **equally**.
+
+| Name | Role | GitHub |
+|---|---|---|
+| B. Srishanth Reddy | Team Lead | [@Srishanth6](https://github.com/Srishanth6) |
+| Ashmitha | Team Member | [@ashmitha-2366](https://github.com/ashmitha-2366) |
+| K. Vedanidhi | Team Member | [@Kvedanidhi](https://github.com/Kvedanidhi) |
 
 ## Acknowledgements
 
