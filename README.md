@@ -142,3 +142,7 @@ This project was built jointly by a three-member team, and all three members con
 ## Acknowledgements
 
 Data source: India Meteorological Department, Meteorological Centre Hyderabad.
+
+## License
+
+MIT, see [LICENSE](LICENSE). Copyright (c) 2026 Bankiti Srishanth Reddy and contributors.
